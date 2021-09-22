@@ -1,0 +1,24 @@
+.px-15 {
+    padding-left: 11rem;
+    padding-right: 11rem;
+  }
+  @media screen and (max-width:1300px) {
+    .px-15 {
+        padding-left: 8rem;
+        padding-right: 8rem;
+      }
+    
+  }
+  @media screen and (max-width:900px) {
+    .px-15 {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+  }
+.mybtn-primary{
+    width: 12rem;
+    border-radius: 5px;
+}
+.myimg{
+    height: 300px;
+}
