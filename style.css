@@ -14,6 +14,7 @@
         padding-left: 1rem;
         padding-right: 1rem;
       }
+     
   }
 .mybtn-primary{
     width: 12rem;
@@ -21,4 +22,32 @@
 }
 .myimg{
     height: 300px;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.ms-4 {
+    margin-left: 7.5rem!important;
+}
+.pdg{
+    padding-right: .5rem;
+}
+.my-font{
+    font-size: 14px;
+}
+.media-object{
+    margin-top: .5rem;
+}
+.my-font2{
+    font-size: 30px;
+}
+.my-hover :hover{
+    text-decoration: underline;
+}
+.my-font-20{
+    font-size: 20px;
 }
