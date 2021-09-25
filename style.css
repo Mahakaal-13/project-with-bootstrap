@@ -7,7 +7,15 @@
         padding-left: 8rem;
         padding-right: 8rem;
       }
-    
+@media screen and (max-width:990px) {
+    .add-box-content{
+        display: flex;
+        flex-direction: column; 
+    }
+  .add-box-content-inside{
+      margin-bottom: 1rem;
+  }
+}
   }
   @media screen and (max-width:900px) {
     .px-15 {
@@ -50,4 +58,7 @@
 }
 .my-font-20{
     font-size: 20px;
+}
+.alert {
+    margin-top: -1rem;
 }
