@@ -62,3 +62,14 @@
 .alert {
     margin-top: -1rem;
 }
+.footer-blurb{
+    background-color: rgb(221, 221, 221);
+}
+.footer-blurb-item {
+    padding: 35px;
+    font-size: 15px;
+}
+.my-final-font{
+    font-size: 24px;
+    font-weight: 500;
+}
